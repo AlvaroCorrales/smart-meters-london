@@ -162,3 +162,4 @@ cython_debug/
 /Processed data
 /Small LCL Data
 .DS_Store
+causal_model.png
